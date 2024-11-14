@@ -1,13 +1,13 @@
 ## Olá, me chamo David e seja bem vindo ao meu perfil do GitHub!
 
-<p> - Meu nome é DaviD Victor, desenvolvedor iniciante.
+<p> - Meu nome é David Victor, desenvolvedor iniciante.
   <br>- Back End; 
   <br>- Pernambuco, Brasil.
 </p>
 <br>
 
 <div align="center">  
-   <img src="https://github-readme-stats.vercel.app/api?username=yfgdavid&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="143" alt="stats graph"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=yfgdavid&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yfgdavid&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=true&hide_border=false&order=1" height="143" alt="activity-graph graph"/>
 </div>
