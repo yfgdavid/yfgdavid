@@ -26,9 +26,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yfgdavid&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfgdavid&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
-
 </div>
